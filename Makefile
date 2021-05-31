@@ -11,7 +11,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 SSH_HOST=robertjoslyn.com
 SSH_PORT=8022
 SSH_USER=robert
-SSH_TARGET_DIR=/var/www/robertjoslyn.com/htdocs
+SSH_TARGET_DIR=/var/www/robertjoslyn.com/
 
 
 DEBUG ?= 0
